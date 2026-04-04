@@ -1,0 +1,16 @@
+# Ignorar el entorno virtual de Windows
+.venv/
+env/
+venv/
+
+# Ignorar archivos de Git
+.git/
+.gitignore
+
+# Ignorar archivos temporales de Python y Pruebas
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Ignorar archivos de configuración de VS Code
+.vscode/
